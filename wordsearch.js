@@ -1,3 +1,5 @@
+//WORKED WITH samaa88#3822
+
 /**
  * a function  receives a 2D array of letters and a word. 
  * The function must:
@@ -41,7 +43,7 @@ const wordSearch = (letters, word) => {
            } 
       }
       return false; 
-      
+
     } else {
       return ('The array is empty!');
     }
